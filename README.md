@@ -11,3 +11,6 @@ Soon I will have this easily implemented on my personal website where a user can
 This is a rather simple implementation of neural networks, and although complex for regular standards of programs there are even deeper and more complex neural networks for a multitude of layers to obscure and weigh the data. This is where technology is headed so it is important to gain a coherent comprehension of this impressive functionality, especially when libraries like TensorFlow, keras, PyTorch, etc, make it so "easy" to use with their documentation and resources.
 
 There are different types of neural networks, the one utilized in this is a recursive neural network, which has what is called LSTM or Long Short Term Memory allowing it to piece together text and create a prediction on what letter, word, and character comes next. It has a checkpoint based system and you can actually recall a certain iteration of its learning process and see how it evolved. 
+
+
+Note: The code should work out of the box, so if it doesn't make sure to run each cell accordingly or just use Run All.
